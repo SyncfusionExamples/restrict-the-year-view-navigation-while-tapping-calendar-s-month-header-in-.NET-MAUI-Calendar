@@ -1,7 +1,8 @@
-# How to restrict the year view navigation while tapping calendar’s month header in .NET MAUI Calendar
+# How to Restrict Year View Navigation in the .NET MAUI Calendar (SfCalendar)
+
 This sample contains a sample to restrict the year view navigation while tapping calendar’s month header in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13875/how-to-restrict-year-view-navigation-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
